@@ -9,12 +9,9 @@ menus:
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+<h2> NR </h2>berasal dari singkatan pendiri NR Riding Apparels yaitu Nicholas Veri, Reyner Giovanni Tjandra. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Pada bulan Februari 2018, Ario Oriwarda Girsang direkrut untuk bergabung dengan tim kami karena Ario merupakan orang yang cukup paham dengan seluk-beluk jaket motor.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Produk kami sangat di unggulkan dari kompetitor yang lain. Karena produk kami memiliki design 2in1 yaitu design yang memakai 2 model dalam 1 jaket atau sering di sebut jaket bulak-balik. Jaket kami juga memakai bahan yang nyaman.
